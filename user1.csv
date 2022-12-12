@@ -1,0 +1,105 @@
+Employee Name,Type of User,RAM (GB),Memory (GB),CPU Cores,Software Applications,Working Hours (per day),Messages Received (per day)
+John Doe,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Jane Smith,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Joe Johnson,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+Sarah Johnson,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Tom Smith,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Kim Johnson,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Rachel Smith,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Steve Johnson,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+Emily Johnson,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+David Smith,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Michael Brown,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Samantha Green,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+William Johnson,Standard User,8,128,2,"Microsoft Office, Salesforce, Zoom",8,10
+Jessica Smith,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Sara Johnson,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+Robert Johnson,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Brandon Smith,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Ashley Brown,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Emma Green,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Jessica Johnson,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Lauren Williams,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Jacob Davis,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Emily Johnson,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+Michael Thompson,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Alexis Brown,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Sarah Jones,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Christopher Anderson,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Emma Thompson,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+William Johnson,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Samantha Davis,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Laura Johnson,Sales Person,8,128,2,"Adobe Creative Suite, Sketch, InVision",8,5
+Daniel Brown,Power User,16,256,4,"Xcode, Android Studio, GitHub",12,10
+Cameron Davis,Sales Person,8,128,2,"Hootsuite, Google Analytics, Mailchimp",8,15
+Olivia Smith,IT Department,8,128,2,"Microsoft Office, ADP, Slack",8,10
+Chloe Anderson,Executive,16,256,4,"Microsoft Office, QuickBooks, Xero",8,5
+Mark Johnson,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Samantha Davis,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Michael Thompson,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+Emily Brown,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Alexis Anderson,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Lauren Davis,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Jacob Thompson,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+Sarah Johnson,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Christopher Brown,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Emily Anderson,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Mark Johnson,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Lauren Williams,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Emily Thompson,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+William Johnson,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Samantha Davis,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Laura Johnson,Sales Person,8,128,2,"Adobe Creative Suite, Sketch, InVision",8,5
+Daniel Brown,Power User,16,256,4,"Xcode, Android Studio, GitHub",12,10
+Cameron Davis,Sales Person,8,128,2,"Hootsuite, Google Analytics, Mailchimp",8,15
+Olivia Smith,IT Department,8,128,2,"Microsoft Office, ADP, Slack",8,10
+Chloe Anderson,Executive,16,256,4,"Microsoft Office, QuickBooks, Xero",8,5
+Jessica Johnson,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Jacob Davis,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Michael Thompson,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+Alexis Brown,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Sarah Jones,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Christopher Anderson,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Emma Thompson,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+William Johnson,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Samantha Davis,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Ravi Patel,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Priya Shah,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Ravi Singh,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+Priyanka Gupta,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Rishi Raj,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Aarushi Shah,Sales Person,8,128,2,"Adobe Creative Suite, Sketch, InVision",8,5
+Rajesh Patel,Power User,16,256,4,"Xcode, Android Studio, GitHub",12,10
+Priya Khan,Sales Person,8,128,2,"Hootsuite, Google Analytics, Mailchimp",8,15
+Ravi Singh,IT Department,8,128,2,"Microsoft Office, ADP, Slack",8,10
+Priyanka Mehta,Executive,16,256,4,"Microsoft Office, QuickBooks, Xero",8,5
+Akira Tanaka,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Yuki Nakamura,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Takashi Kimura,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+Akiko Honda,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Kazuki Nakamura,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Yuki Saito,Sales Person,8,128,2,"Adobe Creative Suite, Sketch, InVision",8,5
+Akira Kimura,Power User,16,256,4,"Xcode, Android Studio, GitHub",12,10
+Takashi Tanaka,Sales Person,8,128,2,"Hootsuite, Google Analytics, Mailchimp",8,15
+Yuki Suzuki,IT Department,8,128,2,"Microsoft Office, ADP, Slack",8,10
+Akiko Saito,Executive,16,256,4,"Microsoft Office, QuickBooks, Xero",8,5
+Marcus Aurelius,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Lucilla Antonia,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Decius Brutus,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+Antonia Major,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Aurelius Victor,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Brutus Cassius,Sales Person,8,128,2,"Adobe Creative Suite, Sketch, InVision",8,5
+Decius Brutus,Power User,16,256,4,"Xcode, Android Studio, GitHub",12,10
+Lucilla Antonia,Sales Person,8,128,2,"Hootsuite, Google Analytics, Mailchimp",8,15
+Marcus Aurelius,IT Department,8,128,2,"Microsoft Office, ADP, Slack",8,10
+Antonia Major,Executive,16,256,4,"Microsoft Office, QuickBooks, Xero",8,5Sean O'Connor,Power User,16,256,4,"Microsoft Office, Salesforce, Zoom",8,10
+Aileen Murphy,Sales Person,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",6,15
+Conor Gallagher,IT Department,32,512,6,"Windows 10, Microsoft Office, Slack",7,5
+Aoife Kelly,Executive,16,256,4,"Microsoft Office, Salesforce, Zoom",9,7
+Seamus Murphy,Standard User,8,128,2,"Adobe Creative Suite, Mailchimp, Hootsuite",7,6
+Aileen O'Connor,Sales Person,8,128,2,"Adobe Creative Suite, Sketch, InVision",8,5
+Conor Gallagher,Power User,16,256,4,"Xcode, Android Studio, GitHub",12,10
+Aoife Kelly,Sales Person,8,128,2,"Hootsuite, Google Analytics, Mailchimp",8,15
+Sean O'Connor,IT Department,8,128,2,"Microsoft Office, ADP, Slack",8,10
+Seamus Murphy,Executive,16,256,4,"Microsoft Office, QuickBooks, Xero",8,5
+
